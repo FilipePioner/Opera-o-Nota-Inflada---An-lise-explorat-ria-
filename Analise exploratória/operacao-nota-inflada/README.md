@@ -1,12 +1,8 @@
-# 📊 Projeto 04 — Operação Nota Inflada
-
-## 👥 Equipe
+# 📊 Operação Nota Inflada
 
 * **José Alves Ferreira Neto**
 * **Filipe Pioner**
 * **João Pedro Sobral**
-
----
 
 # 🕵️ Operação Nota Inflada
 
