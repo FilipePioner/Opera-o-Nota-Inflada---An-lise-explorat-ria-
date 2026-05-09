@@ -130,9 +130,3 @@ projeto_04/
 * **Matplotlib** — visualização de dados
 * **Seaborn** — visualizações estatísticas
 * **Análise Exploratória de Dados (EDA)**
-
----
-
-## 🎓 Contexto Acadêmico
-
-Este projeto foi desenvolvido como parte de uma atividade acadêmica de **pós-graduação** (MBA em Ciência de Dados - Universidade de Fortaleza / Unifor), envolvendo técnicas de **análise exploratória de dados e investigação baseada em dados educacionais**.
